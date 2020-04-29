@@ -1,5 +1,5 @@
 {
-    "name": "magestack/queue",
+    "name": "wth193/magestack-queue",
     "description": "MageStack queuing module for all PHP applications",
     "version": "1.0.1",
     "type": "package",
