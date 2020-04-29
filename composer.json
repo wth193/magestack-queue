@@ -4,7 +4,7 @@
     "version": "1.0.1",
     "type": "package",
     "source": {
-        "url": "git://github.com/sonassi/magestack-queue.git",
+        "url": "git://github.com/wth193/magestack-queue.git",
         "type": "git",
         "reference": "master"
     },
